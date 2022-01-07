@@ -42,6 +42,10 @@
 | Clicker Heroes                | 10^100000 - e100,000         | Exponential               | PlaySaurus      | https://www.clickerheroes.com/                                     |
 | Idle Mine: Remix              | 10^50000 - e50,000           | Exponential               | VeproGames      | https://veprogames.github.io/idle-mine-remix/                      |
 | Incremental Adventures        | 10^10000 - e10,000           | Exponential               | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures    |
-| Swarm Simulator               | 10^4800 - e4,800             | >=Polynomial              | kawaritai       | https://www.swarmsim.com/                                          |
+| Swarm Simulator               | 10^4800 - e4,800             | >=Polynomial              | kawaritai       | https://www.swarmsim.com/     
+|
+| Attack The Blobs              | 10^308 - e308                | Polynomial                | XvoloeTheCool   | Working on it, will be on Scratch
+|
+| Kubos                         | 10^250 - e250                | Exponential               | XvoloeTheCool   | Working on it, will be on Scratch
 
 <sup>\*</sup> \<function1>:\<function2> means the function composition. Ex.) Exponential:polynomial~`t^t^n`, where `t` is time and `n` is a constant.
